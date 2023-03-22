@@ -3,5 +3,5 @@ const main = document.getElementById('main');
 main.remove();
 const newHeader =  document.createElement('h1');
 newHeader.setAttribute("id","victory");
-newHeader.textContent = "Ngare is the champion";
+newHeader.textContent = "Mwiri is the champion";
 document.body.append(newHeader);
